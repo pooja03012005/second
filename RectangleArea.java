@@ -1,4 +1,4 @@
-package Program2;
+
 
 
 class RectangleArea{
